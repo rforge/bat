@@ -1,0 +1,14 @@
+Package: bat
+Title: Biodiversity Assessment Tools
+Version: 1.0
+Date: July, 10 2014
+Author: Pedro Cardoso, Francois Rigal, Jose Carlos Carvalho
+Maintainer: Pedro Cardoso <pedro.cardoso@helsinki.fi>
+Description: taxon, phylogenetic and functional descriptors, including
+    estimators from incomplete samples
+Depends:
+    R (>= 3.0.0),
+    vegan (>= 2.0)
+License: GPL-3
+LazyData: true
+Roxygen: list(wrap = FALSE)
